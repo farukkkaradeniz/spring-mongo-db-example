@@ -1,0 +1,6 @@
+/Users/tcfkaradeniz/Documents/Dev/projects/personal/spring-boot-denemeler/spring-mongo-db-example/src/main/java/com/blacksea/mongoexample/contoller/BooksController.java
+/Users/tcfkaradeniz/Documents/Dev/projects/personal/spring-boot-denemeler/spring-mongo-db-example/src/main/java/com/blacksea/mongoexample/service/BookService.java
+/Users/tcfkaradeniz/Documents/Dev/projects/personal/spring-boot-denemeler/spring-mongo-db-example/src/main/java/com/blacksea/mongoexample/SpringMongoExampleApplication.java
+/Users/tcfkaradeniz/Documents/Dev/projects/personal/spring-boot-denemeler/spring-mongo-db-example/src/main/java/com/blacksea/mongoexample/domain/BooksEntity.java
+/Users/tcfkaradeniz/Documents/Dev/projects/personal/spring-boot-denemeler/spring-mongo-db-example/src/main/java/com/blacksea/mongoexample/service/impl/BookServiceImpl.java
+/Users/tcfkaradeniz/Documents/Dev/projects/personal/spring-boot-denemeler/spring-mongo-db-example/src/main/java/com/blacksea/mongoexample/repository/BooksRepository.java
