@@ -1,6 +1,0 @@
-com/blacksea/mongoexample/domain/BooksEntity.class
-com/blacksea/mongoexample/repository/BooksRepository.class
-com/blacksea/mongoexample/service/impl/BookServiceImpl.class
-com/blacksea/mongoexample/contoller/BooksController.class
-com/blacksea/mongoexample/service/BookService.class
-com/blacksea/mongoexample/SpringMongoExampleApplication.class
